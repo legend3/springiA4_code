@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springiA4_01_knight/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_01_knight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_02_assembly/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_02_assembly/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_03_advancedAssembly/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_03_advancedAssembly/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_04_aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_04_aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_04_aspectj/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_04_aspectj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_05_simpleMVC Maven Webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_05_simpleMVC Maven Webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_10_jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_10_jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_hibernate4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_hibernate4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_jpa_hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_jpa_hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_jpa_springdata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_11_persistence_jpa_springdata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_12_nosql_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_12_nosql_neo4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_12_nosql_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_13_cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_13_cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_14_methodsecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_14_methodsecurity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_17_msg_amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_17_msg_amqp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_17_msg_jms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_17_msg_jms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_19_email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springiA4_19_email/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

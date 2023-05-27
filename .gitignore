@@ -1,0 +1,10 @@
+# Project exclude paths
+/springiA4_01_knight/target/
+/springiA4_12_nosql_mongodb/target/
+/springiA4_12_nosql_neo4j/target/
+/springiA4_12_nosql_redis/target/
+/springiA4_13_cache/target/
+/springiA4_14_methodsecurity/target/
+/springiA4_17_msg_amqp/target/
+/springiA4_17_msg_jms/target/
+/springiA4_19_email/target/
